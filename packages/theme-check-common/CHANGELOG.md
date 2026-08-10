@@ -1,5 +1,11 @@
 # @shopify/theme-check-common
 
+## 3.28.2
+
+### Patch Changes
+
+- f2071b6d: Add a `docs.url` to `LiquidHTMLSyntaxError` so editors surface a "learn more" link on the diagnostic.
+
 ## 3.28.1
 
 ### Patch Changes
